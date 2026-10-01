@@ -1,0 +1,8 @@
+model,accuracy_pct,source
+CGMV-XGB v2,75.782161,previous experiment
+FiFTy,77.5,published FFT-75 4096 Scenario 1
+DSC-SE,79.37,published FFT-75 4096 Scenario 1
+ByteFusion Duo,80.83437500000001,current official test
+ByteResNet,82.1,published FFT-75 4096 Scenario 1
+CarveFormer,82.99,published FFT-75 4096 Scenario 1
+ByteRCNN,83.9,published FFT-75 4096 Scenario 1

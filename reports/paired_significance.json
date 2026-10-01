@@ -1,0 +1,8 @@
+{
+  "baseline": "Scalar calibrated blend",
+  "candidate": "ByteFusion Duo final",
+  "wrong_to_correct": 5485,
+  "correct_to_wrong": 5295,
+  "net_gain": 190,
+  "mcnemar_exact_p_value": 0.06870234483675004
+}
